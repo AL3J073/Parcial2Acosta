@@ -1,0 +1,3 @@
+id,patente,tipo_vehiculo,entrada,salida,solicito_lavado,motivo_rechazo
+MOV032,BJ234KK,tractor,10:00,12:00,False,Tipo de vehículo inválido
+MOV033,PATENTE99,auto,11:00,13:00,False,Patente inválida
