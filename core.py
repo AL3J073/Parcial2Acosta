@@ -16,7 +16,7 @@ def calcular_minutos(hora_entrada, hora_salida):
     min_in = h_in * 60 + m_in
     min_out = h_out * 60 + m_out
     
-    # Desafío Nivel 1: Tratamiento de Medianoche
+    #Tratamiento de Medianoche
     if min_out < min_in:
         return (1440 - min_in) + min_out
     return min_out - min_in
